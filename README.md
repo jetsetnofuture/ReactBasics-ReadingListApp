@@ -1,4 +1,4 @@
-# ReactBasics-ReadingListApp
+# Reading List App
 A simple React app that uses forms to create a reading list. At the bottom of the page, the user enters a book title and when they click the "Create!" button, a book entry gets created on the same page with a random image and that title. The book element's title can be edited and the entire element can be deleted. 
 
 ## How to Use
